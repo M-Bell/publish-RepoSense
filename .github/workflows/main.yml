@@ -27,6 +27,6 @@ jobs:
       with:
         github_token: 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
         publish_dir: ./reposense-report
-        user_name: 'github-actions[bot]'
-        user_email: 'github-actions[bot]@users.noreply.github.com'
+        user_name: 'M-Bell'
+        user_email: 'maxymshyjko@gmail.com'
         commit_message: Rebuild pages at 
