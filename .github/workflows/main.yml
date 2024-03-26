@@ -25,7 +25,7 @@ jobs:
     - name: Deploy GitHub pages
       uses: peaceiris/actions-gh-pages@v3
       with:
-        github_token: ${{ secrets.GIT_KEY }}
+        github_token: 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
         publish_dir: ./reposense-report
         user_name: 'github-actions[bot]'
         user_email: 'github-actions[bot]@users.noreply.github.com'
