@@ -25,7 +25,7 @@ jobs:
     - name: Deploy GitHub pages
       uses: peaceiris/actions-gh-pages@v3
       with:
-        github_token: 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
+        github_token: ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPZILDR7fCH1O/21b5tV/K2NF20S+Eb9wQJYG4yvE1td maxymshyjko@gmail.com
         publish_dir: ./reposense-report
         user_name: 'M-Bell'
         user_email: 'maxymshyjko@gmail.com'
