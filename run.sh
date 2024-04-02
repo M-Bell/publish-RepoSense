@@ -15,4 +15,4 @@
 ## Examples of other valid options; For more, please view the user guide
 ### java -jar RepoSense.jar --repos https://github.com/reposense/RepoSense.git
 
-java -jar RepoSense.jar --repos https://github.com/M-Bell/Raccoon.git https://github.com/M-Bell/Raccoon.git/tree/ui_playable --since 1\/6\/2022 --until 15\/7\/2022
+java -jar RepoSense.jar --repos https://github.com/M-Bell/Raccoon.git https://github.com/M-Bell/Raccoon/tree/ui_playable --since 1\/6\/2022 --until 15\/7\/2022
